@@ -34,15 +34,29 @@ Features
 
 <h3> Example Conversation </h3>
 
-Welcome to the Advanced Chatbot!
-You can start chatting with me. Type 'bye' to exit.
-You: hi
-Chatbot: Hello! How can I assist you?
-You: how are you
+Welcome to the Advanced Chatbot! 
+
+You can start chatting with me. Type 'bye' to exit. 
+
+You: hi 
+
+Chatbot: Hello! How can I assist you? 
+
+You: how are you 
+
 Chatbot: I'm doing well, thank you for asking!
-You: weather
-Chatbot: Unable to fetch weather information at the moment.
-You: bye
+
+You: weather 
+
+Chatbot: Unable to fetch weather information at the moment. 
+
+You: bye 
+
 Goodbye! Have a great day!
 
-Enjoy interacting with the Advanced Chatbot!
+
+
+
+
+
+<h4> Enjoy interacting with the Advanced Chatbot! </h4>
